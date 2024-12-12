@@ -35,9 +35,45 @@ To estimate the parameter K:
 
 #### Estimated Parameters
 
+The exponential growth formula is:
+
+𝑁(𝑡) = N<sub>0</sub * ee<sup>(r * t)</sup>
+​
+
 - **N<sub>0</sub>** = 978.1
 - **r** = 0.01004
-- **K** = 5.979 × 10<sup>10</sup>.
+- **t**: Time (in minutes) (4980)
 
 ## Question 2
+
+N(4980) = 978.1 * e<sup>(0.01004 * 4980)</sup>
+
+N(4980) = 978.1 * e<sup>(50.0192)</sup>
+
+N(4980) = 978.1 * (5.184×10<sup>(21)</sup>) 
+
+N(4980) = 5.072 * 10<sup>(24)</sup>
+
+The population size under exponential growth at at (t=4980) is approximately **5.072 * 10<sup>(24)</sup>**
+
+The logistic growth equation:
+
+N(t) = (K * N<sub>0</sub> * e<sup>(r * t)</sup>) / (K - N<sub>0</sub> + N<sub>0</sub> * e<sup>(r * t)</sup>)
+
+Where:
+- **N<sub>0</sub>**: Initial population size (978.1)
+- **r**: Growth rate during exponential growth (0.01004)
+- **K**: Carrying capacity (5.979 × 10^10)
+- **t**: Time (in minutes) (4980)
+
+N(4980) = 978.1 * e<sup>(0.01004 * 4980)</sup>
+
+N(4980) = 978.1 * e<sup>(50.0192)</sup>
+
+N(4980) = 978.1 * (5.184×10<sup>(21)</sup>) 
+
+N(4980) = 5.072 * 10<sup>(24)</sup>
+
+
+
 
