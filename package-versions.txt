@@ -1,0 +1,6 @@
+sink(file = "package-versions.txt")
+sessionInfo()
+sink()
+
+#Packages installed
+#library(ggplot2)
