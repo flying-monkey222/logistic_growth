@@ -28,15 +28,16 @@ To estimate the parameters N<sub>0</sub> and r :
 During the stable phase (t > 2500), the population size approaches its carrying capacity (K). At this stage, the population remains constant, and the relationship can be described by: **N(t) ≈ K**
 
 To estimate the parameter K:
-- A subset of the data with time points t > 2500 was used, corresponding to the stable phase.
+- A subset of the data with time points (t > 2500) was used, corresponding to the stable phase.
 - A linear model (N ~ 1) was fitted, treating K as a constant.
 - The intercept from this model provided the estimate for K:
   - **Intercept (K)**: Estimated as K ≈ 5.979 × 10<sup>10</sup>.
- 
+  
   #### Estimated Parameters
 
 - N<sub>0</sub> = 978.1
 - r = 0.01004
 - K = 5.979 × 10<sup>10</sup>.
 
+## Question 2
 
