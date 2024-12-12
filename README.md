@@ -35,16 +35,22 @@ To estimate the parameter K:
 
 #### Estimated Parameters
 
+- **N<sub>0</sub>** ≈ 978.1
+- **r** ≈ 0.01004
+- **K** ≈ 5.979 × 10<sup>10</sup>.
+
+## Question 2
+
+### 1. Exponential Growth Calculation
+
 The exponential growth formula is:
 
-𝑁(𝑡) = N<sub>0</sub * ee<sup>(r * t)</sup>
-​
+N(t) = N<sub>0</sub * ee<sup>(r * t)</sup>
 
+Where:​
 - **N<sub>0</sub>** = 978.1
 - **r** = 0.01004
 - **t**: Time (in minutes) (4980)
-
-## Question 2
 
 N(4980) = 978.1 * e<sup>(0.01004 * 4980)</sup>
 
@@ -54,7 +60,9 @@ N(4980) = 978.1 * (5.184×10<sup>(21)</sup>)
 
 N(4980) = 5.072 * 10<sup>(24)</sup>
 
-The population size under exponential growth at at (t=4980) is approximately **5.072 * 10<sup>(24)</sup>**
+The population size under **exponential growth** at at (t=4980) is approximately **5.072 * 10<sup>(24)</sup>**
+
+### 2. Exponential Growth Calculation
 
 The logistic growth equation:
 
@@ -63,17 +71,21 @@ N(t) = (K * N<sub>0</sub> * e<sup>(r * t)</sup>) / (K - N<sub>0</sub> + N<sub>0<
 Where:
 - **N<sub>0</sub>**: Initial population size (978.1)
 - **r**: Growth rate during exponential growth (0.01004)
-- **K**: Carrying capacity (5.979 × 10^10)
+- **K**: Carrying capacity (5.979 × 10<sup>10</sup>)
 - **t**: Time (in minutes) (4980)
 
-N(4980) = 978.1 * e<sup>(0.01004 * 4980)</sup>
+N(4980) = ((5.979 × 10<sup>10</sup>) * (978.1) * (e<sup>(50.0192)</sup>)) / ((5.979 × 10<sup>10</sup>) - (978.1)+ (978.1) * (e<sup>(50.0192)</sup>))
+
+
+978.1 * e<sup>(0.01004 * 4980)</sup>
 
 N(4980) = 978.1 * e<sup>(50.0192)</sup>
 
 N(4980) = 978.1 * (5.184×10<sup>(21)</sup>) 
 
-N(4980) = 5.072 * 10<sup>(24)</sup>
+N(4980) ≈ 5.979 * 10<sup>(10)</sup> 
 
+The population size under **logistic growth** at at (t=4980) is approximately **5.979 * 10<sup>(10)</sup>**
 
-
+Conclusion: The population size under logistic growth (5.979 * 10<sup>10</sup>) is much smaller than the population size at exponential growth (5.072 * 10<sup>24</sup>). The exponential growth model assumes unlimited resources whereas the logistic growth model population size is constrained becuase it takes into consideration carrying capcity (K).
 
