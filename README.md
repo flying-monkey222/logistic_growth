@@ -45,7 +45,7 @@ To estimate the parameter K:
 
 The exponential growth formula is:
 
-N(t) = N<sub>0</sub * ee<sup>(r * t)</sup>
+N(t) = N<sub>0</sub> * e<sup>(r * t)</sup>
 
 Where:​
 - **N<sub>0</sub>** = 978.1
@@ -78,6 +78,6 @@ N(4980) = ((5.979 × 10<sup>10</sup>) * (978.1) * (e<sup>(50.0192)</sup>)) / ((5
 
 N(4980) ≈ 5.979 * 10<sup>(10)</sup> 
 
-The population size under **logistic growth** at at (t=4980) is approximately **5.979 * 10<sup>(10)</sup>**
+The population size under **logistic growth** at at (t=4980) is approximately **5.979 * 10<sup>10</sup>**
 
 **Conclusion**: The population size under logistic growth (5.979 * 10<sup>10</sup>) is much smaller than the population size at exponential growth (5.072 * 10<sup>24</sup>). The exponential growth model assumes unlimited resources whereas the logistic growth model population size is constrained becuase it takes into consideration carrying capcity (K).
