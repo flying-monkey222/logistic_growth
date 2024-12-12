@@ -32,12 +32,12 @@ To estimate the parameter K:
 - A linear model (N ~ 1) was fitted, treating K as a constant.
 - The intercept from this model provided the estimate for K:
   - **Intercept (K)**: Estimated as K ≈ 5.979 × 10<sup>10</sup>.
-  
-  #### Estimated Parameters
 
-- N<sub>0</sub> = 978.1
-- r = 0.01004
-- K = 5.979 × 10<sup>10</sup>.
+#### Estimated Parameters
+
+- **N<sub>0</sub>** = 978.1
+- **r** = 0.01004
+- **K** = 5.979 × 10<sup>10</sup>.
 
 ## Question 2
 
