@@ -35,9 +35,9 @@ To estimate the parameter K:
 
 ##### Estimated Parameters
 
-- **N<sub>0</sub>** ≈ 978.1
-- **r** ≈ 0.01004
-- **K** ≈ 5.979 × 10<sup>10</sup>.
+- \ **N<sub>0</sub>**: Initial population size ≈ 978.1
+- \ **r**: Growth rate during exponential growth ≈ 0.01004
+- \ **K**: Carrying capacity (maximum population size)≈ 5.979 × 10<sup>10</sup>.
 
 ## Question 2
 
