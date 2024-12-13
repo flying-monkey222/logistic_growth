@@ -81,3 +81,10 @@ N(4980) ≈ 5.979 * 10<sup>(10)</sup>
 The population size under **logistic growth** at at (t=4980) is approximately **5.979 * 10<sup>10</sup>**
 
 **Conclusion**: The population size under logistic growth (5.979 * 10<sup>10</sup>) is much smaller than the population size at exponential growth (5.072 * 10<sup>24</sup>). The exponential growth model assumes unlimited resources whereas the logistic growth model population size is constrained becuase it takes into consideration carrying capcity (K).
+
+## Question 3
+
+Graph comparing logistic and exponential growth curves:
+
+<img width="1082" alt="image" src="https://github.com/user-attachments/assets/4ce95051-86ba-4bbe-a752-ead78a57f127" />
+
