@@ -1,12 +1,5 @@
 ## Question 1
 
-This assignment required the analyses of bacterial population growth using a logistic growth model. 
-
-The goal is to estimate the following parameters:
-- \(N<sub>0</sub>\): Initial population size.
-- \(r): Growth rate during exponential growth.
-- \(K\): Carrying capacity (maximum population size).
-
 The data for this analysis was obtained from the file `experiment.csv`.
 
 #### Methods for Parameter Estimation
