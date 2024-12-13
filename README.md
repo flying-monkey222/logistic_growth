@@ -4,7 +4,7 @@ The data for this analysis was obtained from the file `experiment.csv`.
 
 #### Methods for Parameter Estimation
 
-The logistic growth model parameters (N<sub>0</sub>\), \(r\), and \(K\)) were estimated using linear regression on subsets of the data.
+The logistic growth model parameters (N<sub>0</sub>\, r, and K) were estimated using linear regression on subsets of the data.
 
 ##### 1. Using the early exponential growth phase to estimate the parameters N<sub>0</sub> and r: 
 
