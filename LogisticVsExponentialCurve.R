@@ -1,4 +1,4 @@
-# Load required library
+# Load library
 install.packages("ggplot2")
 library(ggplot2)
 
