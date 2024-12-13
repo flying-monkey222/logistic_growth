@@ -49,9 +49,9 @@ N(4980) = 978.1 * e<sup>(0.01004 * 4980)</sup>
 
 N(4980) = 978.1 * e<sup>(50.0192)</sup>
 
-N(4980) = 978.1 * (5.184×10<sup>(21)</sup>) 
+N(4980) = 978.1 * (5.184×10<sup>21</sup>) 
 
-N(4980) = 5.072 * 10<sup>(24)</sup>
+N(4980) = 5.072 * 10<sup>24</sup>
 
 The population size under **exponential growth** at at (t=4980) is approximately **5.072 * 10<sup>(24)</sup>**
 
